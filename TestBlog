@@ -1,0 +1,41 @@
+<!doctype html>
+
+<html> 
+
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <title> Test Blog </title> 
+  </head>
+
+  <body>
+   <header> 
+      <h1> My Blog </h1>
+      <img src="http://38.media.tumblr.com/avatar_cf24d676af93_128.png">
+    </header>
+
+    <section> 
+      <header> 
+        <h2> I built a webpage </h2>
+        <h3> April 13, 2015 </h3>
+        <h4> Breanna Hartman</h4>
+        <img src="http://placekitten.com/200/150">
+      </header>
+
+      <article> 
+        <p>I'm <strong>super excited</strong> to actually build a website. Besides being a useful skill for the resume, it is also just <em>really neat</em> to be more computer savvy. Also, this will allow me to help my fellow interneters in <span>populating the entire interwebs with pictures of kittens and Nic Cage.</span> </p>
+        <p> Besides <strong>internet domination</strong>, websites are cool for being functional for end-users. Like Wikipedia, for citations about <em>everything</em>. </p>
+      </article>
+    </section>
+
+    <aside> 
+      <section> 
+        <h4> Widget </h4>
+      </section>
+
+      <section>
+        <h4> Widget </h4>
+      </section>
+    </aside>
+
+  </body>
+</html>
