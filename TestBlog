@@ -8,7 +8,7 @@
   </head>
 
   <body>
-   <header> 
+   <header>
       <h1> My Blog </h1>
       <img src="http://38.media.tumblr.com/avatar_cf24d676af93_128.png">
     </header>
@@ -29,11 +29,24 @@
 
     <aside> 
       <section> 
-        <h4> Widget </h4>
+        <h4> My Pet </h4>
+        <p> My dog's name is Rosie </p>
       </section>
 
       <section>
-        <h4> Widget </h4>
+        <h4> My Favorite Color </h4>
+        <p class="Blue"> Blue </p>
+      </section>
+
+      <section>
+        <h4> Bucket List </h4>
+        <p> 
+          <ul>
+            <li> Visit Harry Potter World </li>
+            <li> Marathon the Hobbit/LoTR movies </li>
+            <li> Travel to Ireland </li>
+          </ul>
+        </p>
       </section>
     </aside>
 
